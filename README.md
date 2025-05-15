@@ -8,13 +8,13 @@ Welcome to the central repository of BI & Analytics projects. This document prov
 
 ### 🛒 1. Superstore Profitability Analysis
 Analyze key profit centers and loss drivers, evaluate advertising ROI, and assess return behavior using the Superstore dataset.
-➡️ [Read the full Superstore Profitability Analysis](#1-superstore-profitability-analysis)
+➡️ <a href="https://public.tableau.com/app/profile/danielle.daniels/viz/SuperStoreVisualizationReport_2_10_25/Advertising">Tableau Link </a>
 
 ---
 
 ### 🔁 2. Superstore Returns & Dashboard Design
 Identify root causes of product returns and develop a Tableau dashboard to monitor return trends over time, geography, and customer behavior.
-➡️ [Read the full Superstore Returns Analysis](#2-superstore-returns--dashboard-design)
+➡️ <a href="https://public.tableau.com/views/Sprint5Project_Superstore_17427378044380/SubcategoryReturnOverview3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Link </a>
 
 ---
 
